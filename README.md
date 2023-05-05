@@ -11,7 +11,7 @@ Fun stuff:
 ![Screenshot from 2023-05-05 00-11-26(1)](https://user-images.githubusercontent.com/102178068/236400169-979d01af-0014-40f0-8a7a-f11735689ebd.jpg)
 
 Not sure who was broadcasting during time of test... but found it funny ;) 
-...and yes I know the frequency capability is approximately 65MHz-2300MHz (more so I found the Elonics E4000 tuner has a valid frequency range of approximately 52 MHz to 2200 MHz), with small frequency gap near 1100MHz. I was also using the Ham It Up Plus Upconverter.
+...and yes I know the frequency capability is approximately 65MHz-2300MHz (more so, I found the Elonics E4000 tuner has a valid frequency range of approximately 52 MHz to 2200 MHz), with small frequency gap near 1100MHz. But I also have a Ham It Up Plus Upconverter.
 Which reminds me I should make a list of items.
 
 https://user-images.githubusercontent.com/102178068/236401163-5ef5e1e3-a66e-4481-bade-8b1ce7d79012.mp4

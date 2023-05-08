@@ -3,7 +3,14 @@ It is not finished yet... need to add hormanic identification of interferance si
 
 How to use: just run it.
 
-Science:
+# Science:
+
+**PSD for signal identification:**
+![CodeCogsEqn (6)](https://user-images.githubusercontent.com/102178068/236916805-25ab91ca-3bce-4a56-8188-40baa67b37c1.png)
+It represents the distribution of power over various frequencies and can help you identify the dominant frequency components in a signal. In the PSD(f) equation h is the continuous Fourier transform of the autocorrelation function of the signal x(t), squared and scaled by the inverse of the observation time T. The integral is taken over the observation period, from -T/2 to T/2, and as T approaches infinity, the PSD converges to its true value.
+
+**Harmonic Interferance:**
+-still working on this.
 
 Dependancies:
 

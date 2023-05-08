@@ -1,6 +1,7 @@
 Welcome, this repo contains a radio scanner for rtl-sdr written in Python with a PyQt interface.
+It is not finished yet... need to add hormanic identification of interferance signals... and fine tune it more to work with different gain levels, etc.
 
-How to use:
+How to use: just run it.
 
 Science:
 

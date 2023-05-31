@@ -12,7 +12,8 @@ from rtlsdr import RtlSdr
 from scipy import signal as sig
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QGridLayout
 
-#*** THIS IS MORE COMPLICATED THAN IT SOUNDS#Need to get the harmonics to work to spot frequencies that are interfering it seems like PSD does not do it justice. We need to scan it for: Frequency of wave (to get the harmonics), the strength of the signal, and the band of the signal *** THIS IS MORE COMPLICATED THAN IT SOUNDS
+#*** THIS IS MORE COMPLICATED THAN IT SOUNDS
+#Need to get the harmonics to work to spot frequencies that are interfering it seems like PSD does not do it justice. We need to scan it for: Frequency of wave (to get the harmonics), the strength of the signal, and the band of the signal *** THIS IS MORE COMPLICATED THAN IT SOUNDS
 
 # Guidelines for choosing the number of samples to read from the RTL-SDR device
 
